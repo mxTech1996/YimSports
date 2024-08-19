@@ -1,5 +1,5 @@
 
-export const pageName = "YimSports";
+export const pageName = "Yim Sports";
 export const primaryColor = "#000000";
 export const backgroundColor = "#FFFFFF";
 export const makeClearBackground = (color) => {
