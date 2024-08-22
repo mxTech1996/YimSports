@@ -1,23 +1,20 @@
-
-export const pageName = "Yim Sports";
-export const primaryColor = "#000000";
-export const backgroundColor = "#FFFFFF";
+export const pageName = 'Yim Sports';
+export const primaryColor = '#000000';
+export const backgroundColor = '#FFFFFF';
 export const makeClearBackground = (color) => {
   return {
     backgroundColor: color,
-  }
-}
-
-
+  };
+};
 
 export const navData = [
   {
     href: '/#products',
-    label: "Let's start!",
+    label: 'Our Products',
   },
   {
-    href: '/#our-services',
-    label: 'Our Services',
+    href: '/#know-us',
+    label: 'Know us',
   },
   {
     href: '/#references',
